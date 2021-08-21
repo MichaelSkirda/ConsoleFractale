@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{F5A956A3-EF50-4807-9D02-A5A1CFC902AE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleFractale/Program.cs">
+    <Files>
+      <File FileName="ConsoleFractale/Program.cs" Line="229" Column="18" />
+      <File FileName="ConsoleFractale/Point.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsoleFractale" expanded="True">
+            <Node name="ConsoleFractale" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ConsoleFractale PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
